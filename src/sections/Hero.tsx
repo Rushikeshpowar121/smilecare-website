@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import { Check } from "lucide-react";
 
 export default function Hero() {
   const words = "Exceptional Dental Care, Just for You".split(" ");
